@@ -11,10 +11,10 @@ const MOCK_USERS: User[] = [
 ];
 
 const MOCK_INSTRUMENTS: Instrument[] = [
-  { id: 'INST-001', name: 'Anaesthetic Mask', category: 'Respiratory', image: 'https://images.unsplash.com/photo-1584362917165-526a968579e8?auto=format&fit=crop&q=80&w=200&h=200' },
-  { id: 'INST-002', name: 'Video Laryngoscope Blade', category: 'Airway', image: 'https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=200&h=200' },
-  { id: 'INST-003', name: 'Surgical Scissors', category: 'General', image: 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&q=80&w=200&h=200' },
-  { id: 'INST-004', name: 'Forceps', category: 'General', image: 'https://images.unsplash.com/photo-1583947581924-860bda6a5a00?auto=format&fit=crop&q=80&w=200&h=200' },
+  { id: 'INST-001', name: 'Anaesthetic Mask', category: 'Respiratory', image: '/instruments/anaesthetic-mask.jpg' },
+  { id: 'INST-002', name: 'Video Laryngoscope Blade', category: 'Airway', image: '/instruments/video-laryngoscope-blade.jpg' },
+  { id: 'INST-003', name: 'Surgical Scissors', category: 'General', image: '/instruments/surgical-scissors.jpg' },
+  { id: 'INST-004', name: 'Forceps', category: 'General', image: '/instruments/forceps.jpg' },
   { id: 'INST-OTHER', name: 'Others', category: 'Miscellaneous' },
 ];
 
