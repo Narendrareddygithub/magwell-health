@@ -1,0 +1,7 @@
+{
+  "name": "Mackwell Health",
+  "description": "UV-C Compliance and Machine Management Platform",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

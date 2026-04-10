@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --dark-mode: class;
+  
+  @keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+}
+
+.animate-marquee {
+  animation: marquee 30s linear infinite;
+  display: flex;
+  width: max-content;
+}
+
+.hover\:pause-marquee:hover {
+  animation-play-state: paused;
+}
+
+@variant dark (&:where(.dark, .dark *));
