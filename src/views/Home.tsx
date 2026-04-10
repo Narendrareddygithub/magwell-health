@@ -20,7 +20,7 @@ export function Home({ currentUser, cycles, machines, onNavigate, onViewMachine,
       {/* Top Bar with Logo and Actions */}
       <div className="flex justify-between items-center mb-8">
         <img 
-          src="/mackwell logo.png" 
+          src="/mackwell-logo.png" 
           alt="Mackewell Health" 
           className="h-8 w-auto object-contain dark:invert transition-all"
           referrerPolicy="no-referrer"
@@ -110,7 +110,7 @@ export function Home({ currentUser, cycles, machines, onNavigate, onViewMachine,
               >
                 <div className="w-16 h-16 rounded-xl overflow-hidden border border-gray-100 dark:border-gray-700 shadow-sm flex-shrink-0">
                   <img 
-                    src="/MINIBOX-HD2 image.jpg" 
+                    src="/minibox-hd2-image.jpg" 
                     alt="MINIBOX-HD2" 
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"

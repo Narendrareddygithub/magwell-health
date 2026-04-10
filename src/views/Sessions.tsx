@@ -19,7 +19,7 @@ export function Sessions({ cycles, machines, onViewCycle, onNavigate }: { cycles
     <div className="p-5 bg-gray-50 dark:bg-gray-900 min-h-full transition-colors duration-300">
       <div className="mb-6">
         <img 
-          src="/mackwell logo.png" 
+          src="/mackwell-logo.png" 
           alt="Mackewell Health" 
           className="h-6 w-auto object-contain dark:invert mb-4 opacity-80"
           referrerPolicy="no-referrer"

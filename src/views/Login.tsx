@@ -41,7 +41,7 @@ export function Login({ users, onLogin }: { users: User[], onLogin: (user: User)
     <div className="h-full flex flex-col bg-gray-50 dark:bg-gray-950 transition-colors duration-300">
       <div className="flex-1 flex flex-col items-center justify-center p-6">
         <img 
-          src="/mackwell logo.png" 
+          src="/mackwell-logo.png" 
           alt="Mackewell Health" 
           className="h-10 w-auto object-contain dark:invert mb-12 opacity-90"
           referrerPolicy="no-referrer"

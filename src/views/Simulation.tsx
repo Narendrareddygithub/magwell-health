@@ -12,7 +12,7 @@ export function Simulation({ machines, onSimulateScan, onBack }: { machines: Mac
           <ArrowLeft size={20} />
         </button>
         <img 
-          src="/mackwell logo.png" 
+          src="/mackwell-logo.png" 
           alt="Mackewell Health" 
           className="h-6 w-auto object-contain dark:invert opacity-80"
           referrerPolicy="no-referrer"
@@ -37,7 +37,7 @@ export function Simulation({ machines, onSimulateScan, onBack }: { machines: Mac
             <div className="flex items-center gap-4">
               <div className="w-12 h-12 rounded-xl overflow-hidden border border-gray-100 dark:border-gray-800 shadow-sm shrink-0">
                 <img 
-                  src="/MINIBOX-HD2 image.jpg" 
+                  src="/minibox-hd2-image.jpg" 
                   alt="MINIBOX-HD2" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"

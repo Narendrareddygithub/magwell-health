@@ -67,7 +67,7 @@ export function TheatreEvidence({ onComplete }: { onComplete: (hasVideo: boolean
       <div className="bg-white dark:bg-gray-900 px-6 py-4 flex items-center border-b border-gray-100 dark:border-gray-800 sticky top-0 z-20">
         <div className="flex-1">
           <img 
-            src="/mackwell logo.png" 
+            src="/mackwell-logo.png" 
             alt="Mackewell Health" 
             className="h-5 w-auto object-contain dark:invert opacity-80"
             referrerPolicy="no-referrer"

@@ -32,7 +32,7 @@ export function AdminDashboard({
       <div className="bg-white dark:bg-gray-900 px-6 py-4 flex items-center justify-between border-b border-gray-100 dark:border-gray-800 sticky top-0 z-20">
         <div className="flex items-center gap-3">
           <img 
-            src="/mackwell logo.png" 
+            src="/mackwell-logo.png" 
             alt="Mackewell Health" 
             className="h-6 w-auto object-contain dark:invert opacity-80"
             referrerPolicy="no-referrer"
@@ -59,7 +59,7 @@ export function AdminDashboard({
           className="relative w-full aspect-video bg-white dark:bg-gray-900 rounded-[32px] overflow-hidden border border-gray-100 dark:border-gray-800 shadow-sm"
         >
           <img 
-            src="/MINIBOX-HD2 image.jpg" 
+            src="/minibox-hd2-image.jpg" 
             alt="MINIBOX-HD2" 
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"

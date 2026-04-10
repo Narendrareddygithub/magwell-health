@@ -56,7 +56,7 @@ export function ActiveCycle({
         </button>
         <div className="flex-1 px-4">
           <img 
-            src="/mackwell logo.png" 
+            src="/mackwell-logo.png" 
             alt="Mackewell Health" 
             className="h-5 w-auto object-contain dark:invert opacity-80"
             referrerPolicy="no-referrer"
@@ -73,7 +73,7 @@ export function ActiveCycle({
         <div className="flex justify-center">
           <div className="w-full max-w-[200px] aspect-video rounded-2xl overflow-hidden border border-gray-100 dark:border-gray-800 shadow-sm relative">
             <img 
-              src="/MINIBOX-HD2 image.jpg" 
+              src="/minibox-hd2-image.jpg" 
               alt="MINIBOX-HD2" 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"

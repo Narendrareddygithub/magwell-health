@@ -39,7 +39,7 @@ export function MachineDetails({
         </button>
         <div className="flex-1">
           <img 
-            src="/mackwell logo.png" 
+            src="/mackwell-logo.png" 
             alt="Mackewell Health" 
             className="h-5 w-auto object-contain dark:invert opacity-80"
             referrerPolicy="no-referrer"
@@ -59,7 +59,7 @@ export function MachineDetails({
           className="relative w-full aspect-video bg-white dark:bg-gray-900 rounded-[32px] overflow-hidden border border-gray-100 dark:border-gray-800 shadow-sm"
         >
           <img 
-            src="/MINIBOX-HD2 image.jpg" 
+            src="/minibox-hd2-image.jpg" 
             alt="MINIBOX-HD2" 
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"

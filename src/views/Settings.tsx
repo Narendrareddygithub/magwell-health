@@ -12,7 +12,7 @@ export function Settings({ currentUser, onLogout, onBack, isDarkMode, toggleDark
         </button>
         <div className="flex-1">
           <img 
-            src="/mackwell logo.png" 
+            src="/mackwell-logo.png" 
             alt="Mackewell Health" 
             className="h-5 w-auto object-contain dark:invert opacity-80"
             referrerPolicy="no-referrer"
